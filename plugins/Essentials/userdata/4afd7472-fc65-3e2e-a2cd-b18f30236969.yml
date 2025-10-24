@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.123.183.94
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1761313981064
+  login: 1761313879392
+money: '0'
+last-account-name: Xyrenieee
+logoutlocation:
+  world: a6ffe8df-8bcf-4553-a9a7-6844d52b4a98
+  world-name: world
+  x: -320.44512839273506
+  y: 64.0
+  z: 37.065241298539554
+  yaw: 172.79295349121094
+  pitch: 13.649805068969727

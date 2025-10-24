@@ -1,0 +1,10 @@
+# Escludi la cartella .git (anche se già di default)
+.git
+
+# Escludi eventuali cartelle temporanee o di build
+plugins/spark/tmp/
+temp/
+build/
+
+# Escludi file di configurazione o segreti
+secrets.txt
